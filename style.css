@@ -11,8 +11,9 @@ span {
   margin-left: 30px;
 }
 p {
-  padding-left: 25px;
+  padding-left: 15px;
   color: gray;
+  font-size: 10px;
 }
 .container {
   padding-left: 20px;
